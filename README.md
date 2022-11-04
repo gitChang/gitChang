@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 👋 Hi, I'm a Full-Stack Engineer from Philippines.
+
 ```jsx
 import Me from "me";
 import Charlie from "./Charlie";
