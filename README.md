@@ -11,7 +11,7 @@ class About extends Me.Component {
       nationality: "PH_fil",
       male: true,
       loves: ["Coding", "Tech", "Fast Bikes", "NU Metal"],
-      currentFocus: "Microsoft Azure",
+      currentFocus: ["Microsoft Azure", "My Portfolio"],
       funFact: "Coding will soon be as important as reading.",
       };
   }
@@ -27,7 +27,14 @@ class About extends Me.Component {
 
 ```
 
-[![Linkedin: cgp007](https://img.shields.io/badge/-cgp007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cgp007/)](https://www.linkedin.com/in/cgp007/)
-[![GitHub gitChang](https://img.shields.io/github/followers/gitChang?label=follow&style=social)](https://github.com/gitChang)
-[![charlie StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/2612959)](https://stackoverflow.com/users/2612959/charlie)
-
+<p align="center">
+<a 
+href="https://www.linkedin.com/in/charlie-g-pandacan" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+<a 
+href="https://stackoverflow.com/users/2612959/charlie" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=2612959" /></a> 
+<a 
+href="https://github.com/gitChang" target="_blank"><img alt="Github" 
+src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+</p>
