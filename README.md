@@ -11,7 +11,7 @@ class About extends Me.Component {
       nationality: "PH_fil",
       male: true,
       loves: ["Coding", "Tech", "Fast Bikes", "NU Metal"],
-      currentFocus: ["Microsoft Azure", "My Portfolio"],
+      currentFocus: ["React Native", "Microsoft Azure", "My Portfolio"],
       funFact: "Coding will soon be as important as reading.",
       };
   }
